@@ -15,12 +15,7 @@ This project implements a custom YOLOv11 model to classify hand gestures for Roc
    cd rock-paper-scissors-yolov11
    ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Ensure the YOLOv11 environment is set up correctly and the model file (`model_best.pt`) is placed in the project directory.
+2. Ensure the YOLOv11 environment is set up correctly and the model file (`model_best.pt`) is placed in the project directory.
 
 ## Usage
 
@@ -73,12 +68,7 @@ Bu proje, Taş, Kağıt, Makas el hareketlerini sınıflandırmak için özel bi
    cd rock-paper-scissors-yolov11
    ```
 
-2. Bağımlılıkları yükleyin:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. YOLOv11 kurulumunun doğru olduğundan ve model dosyasının (`model_best.pt`) proje dizininde bulunduğundan emin olun.
+2. YOLOv11 kurulumunun doğru olduğundan ve model dosyasının (`model_best.pt`) proje dizininde bulunduğundan emin olun.
 
 ## Kullanım
 
